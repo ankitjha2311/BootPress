@@ -1,0 +1,406 @@
+
+/*
+Theme Name: Bootpress
+Theme URI: https://bootpress.co.in
+Author: Ankit Raj
+Author URI: https://aeonaten.com/
+Description: First theme in Progress
+Requires PHP: 5.2.4
+Version: 1.5
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: twentynineteen
+*/
+.carousel-control-prev{
+    width: 25px !important;
+    height: 30px;
+    background-color: rgba(5, 10, 54);
+   
+  top: 70px !important;  
+  }
+  .carousel-control-next{
+    width: 25px !important;
+    height: 30px;
+    background-color: rgba(5, 10, 54);
+    
+  top: 70px !important;  
+  }
+  .tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0.4em;
+    padding: 0px;
+  }
+  
+    .card-events{
+      overflow: hidden;
+      background-color: darkkhaki !important;
+    }
+  .bg-footer{
+    background: #2a1435;
+    box-shadow: 8px 8px #f7f6fd;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    border-radius: 1em;
+  }
+  .bg-footer-2{
+    background: #cbc8f3;
+  }
+  
+  .body-custom{
+    
+    background-color: whitesmoke !important;
+   
+  }
+  .btn-outline{
+  border: 1px solid green !important;
+  color: yellowgreen !important;
+  }
+  .btn-outline:hover{
+    background-color: rgb(8, 82, 8) !important;
+    color: rgb(228, 228, 228) !important;
+    }
+  
+  
+  .border-reset{
+  
+      border-color: silver !important;
+  }
+  .Admit{
+      background-color: rgb(230, 109, 10) !important;
+      }
+  
+  .Latest{
+          background-color: brown !important;
+      }    
+  .card-events{
+      height: 400px;
+   }
+  .carousel-caption {
+      position: relative !important;
+      left: 0;
+      top: 0;
+  }
+  
+  .h-divider{
+      margin-top:5px;
+      margin-bottom:5px;
+      height:1px;
+      width:100%;
+      border-top:1px solid gray;
+     }
+  
+  
+  
+  /*iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+  IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII*/
+  
+  .col {
+    padding: 20px 7px 0
+  }
+  
+  .footer-dark {
+    padding: 50px 0;
+    color: #f0f9ff;
+    background-color: #282d32
+  }
+  
+  .footer-dark h3 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-weight: 700;
+    font-size: 16px
+  }
+  
+  .footer-dark ul {
+    padding: 0;
+    list-style: none;
+    line-height: 1.6;
+    font-size: 14px;
+    margin-bottom: 0
+  }
+  
+  .footer-dark ul a {
+    color: inherit;
+    text-decoration: none;
+    opacity: .6
+  }
+  
+  .footer-dark ul a:hover {
+    opacity: .8
+  }
+  
+  a:focus,
+  a:hover {
+    color: #0085a1
+  }
+  
+  [data-slide=prev] {
+    margin-right: 10px
+  }
+  
+  a {
+    color: #fff
+  }
+  
+  .contact-info {
+    font-weight: 900;
+    padding: 5px;
+    color: #0ced88;
+    font-size: 18pt
+  }
+  
+  .list-inline {
+    text-align: center
+  }
+  
+  
+  .tab-content {
+      min-height: 550px;
+      padding: 10px
+  }
+  
+  .centered-text {
+      text-align: center;
+      text-decoration: underline;
+      text-decoration-color: #1f78a5;
+      color: #134761;
+      background: linear-gradient(to right, transparent, #2d2f7d, #aab9c0)
+  }
+  
+  .streach-img {
+      padding: 0;
+      margin: 0;
+      width: 100%;
+      height: 100px;
+      border-radius: 0
+  }
+  
+  .tab-reset {
+      background-color: #dfe3e634;
+      box-shadow: 2px 9px 8px #d7e6f0;
+      padding: 0;
+      margin: 0
+  }
+  
+  .name-tab {
+      text-align: center;
+      padding-top: 1em
+  }
+  
+  .tac-nav-custom {
+      background-color: #3f3d3d;
+      border-radius: 0
+  }
+  
+  .tac-nav-custom>li:enabled {
+      border: 0;
+      border-radius: 0
+  }
+  
+  .link-custom {
+      border: none;
+      color: #fff;
+      border-radius: 0 !important
+  }
+  
+  .link-custom:hover {
+      border: none;
+      color: #fff;
+      border-radius: 0 !important
+  }
+  
+  .tab-item-custom {
+      background-color: #3f3d3d
+  }
+  
+  .tab-item-custom:hover {
+      background-color: #629ce7
+  }
+  
+  .progress-custom {
+      border: 1px solid green
+  }
+  
+  .btn-default {
+      padding-left: 0;
+      padding-right: 0
+  }
+  
+  .border-biscuit{
+      
+      border-top: .4rem solid #a15004 !important;
+      background-color: rgb(22, 41, 63) !important;
+      border-radius: 0px !important;
+      padding: 0px;
+      height: 160px;
+      overflow: hidden;
+    
+  }
+  
+  .biscuit{
+      float: left;
+  }
+  
+  .btn-float {
+      float: right
+  }
+  
+  .box-event {
+     
+      padding: 4px 4px 10px 10px;
+      border-radius: 0px;
+      background-color: rgba(25, 24, 85, 0.055)
+  }
+  
+  .box-alert {
+      padding: 10px 10px 10px 10px
+  }
+  
+  .heading-event {
+      text-align: center;
+      color: #2980b9;
+      border-bottom: 1px solid #2d2b31
+  }
+  
+  
+  /***************************************************************************************************
+  ***************************************************************************************************
+  News Card -A Style
+  ***************************************************************************************************
+  **************************************************************************************************/
+  
+  figure.snip1253 {
+      font-family: Raleway, Arial, sans-serif;
+      position: relative;
+      float: left;
+      overflow: hidden;
+      margin: 10px 1%;
+      min-width: 250px;
+      max-width: 310px;
+      width: 100%;
+      background-color: #fff;
+      color: #000;
+      text-align: left;
+      font-size: 16px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, .15)
+  }
+  
+  figure.snip1253 * {
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+      -webkit-transition: all .3s ease;
+      transition: all .3s ease
+  }
+  
+  figure.snip1253 .image {
+      max-height: 220px;
+      overflow: hidden
+  }
+  
+  figure.snip1253 img {
+      max-width: 100%;
+      vertical-align: top;
+      position: relative
+  }
+  
+  figure.snip1253 figcaption {
+      margin: -40px 15px 0;
+      padding: 15px;
+      position: relative;
+      background-color: #fff
+  }
+  
+  figure.snip1253 .date {
+      background-color: #2980b9;
+      top: 15px;
+      color: #fff;
+      left: 15px;
+      min-height: 48px;
+      min-width: 48px;
+      position: absolute;
+      text-align: center;
+      font-size: 20px;
+      font-weight: 700;
+      text-transform: uppercase
+  }
+  
+  figure.snip1253 .date span {
+      display: block;
+      line-height: 24px
+  }
+  
+  figure.snip1253 .date .month {
+      font-size: 14px;
+      background-color: rgba(0, 0, 0, .1)
+  }
+  
+  figure.snip1253 h3,
+  figure.snip1253 p {
+      margin: 0;
+      padding: 0
+  }
+  
+  figure.snip1253 h3 {
+      min-height: 50px;
+      margin-bottom: 10px;
+      margin-left: 60px;
+      display: inline-block;
+      font-weight: 600;
+      
+  }
+  
+  figure.snip1253 p {
+      font-size: .8em;
+      margin-bottom: 20px;
+      line-height: 1.6em
+  }
+  
+  figure.snip1253 footer {
+      padding: 0 25px;
+      background-color: #20638f;
+      color: #e6e6e6;
+      font-size: .8em;
+      line-height: 30px;
+      text-align: right
+  }
+  
+  figure.snip1253 footer>div {
+      display: inline-block;
+      margin-left: 10px
+  }
+  
+  figure.snip1253 footer i {
+      color: rgba(255, 255, 255, .2);
+      margin-right: 5px
+  }
+  
+  figure.snip1253 a {
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      position: absolute;
+      z-index: 1
+  }
+  
+  figure.snip1253:hover img {
+      -webkit-transform: scale(1.15);
+      transform: scale(1.15)
+  }
+  
+  /******************************************************************************************************
+  Navigation Customaization starts here
+  ******************************************************************************************************/
+  
+  .text-biscuit{
+    color: white !important;
+  }
+  
+  .sticky-navs{
+    position: sticky;
+  }
+  
+
+  
